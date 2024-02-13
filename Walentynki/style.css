@@ -1,0 +1,16 @@
+body {
+  background-color: #f9f9f9; /* Jasne tło */
+}
+
+.container {
+  max-width: 400px; /* Ograniczenie szerokości kontenera */
+  padding-top: 20vh; /* Centrowanie w pionie */
+}
+ img {
+  margin-bottom: 5px; /* Dodaje margines na dole */
+  border-radius: 10px; /* Dodaje zaokrąglenie rogów */
+}
+img {
+  display: block; /* Zapewnia, że obraz nie ma dodatkowej przestrzeni na dole */
+  margin-bottom: 5px; /* Ustaw mniejszą wartość dla marginesu dolnego obrazu */
+}
